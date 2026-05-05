@@ -1,4 +1,5 @@
 ---
+name: install-mod
 title: Install Game Mod
 description: Instala mods en juegos siguiendo instrucciones personalizadas. Recibe la ruta del juego, carpeta del mod y pasos de instalación, y ejecuta todo automáticamente.
 ---
